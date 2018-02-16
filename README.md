@@ -1,2 +1,2 @@
 # learning-javascript
-Estudo realizado ao longo da leitura do livro "Learning Javascript"
+Exercises made throughout the reading of the book "Learning javascript"
