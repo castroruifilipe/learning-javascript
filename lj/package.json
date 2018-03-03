@@ -1,0 +1,32 @@
+{
+  "name": "lj",
+  "version": "1.0.0",
+  "description": "Learning JavaScript package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/castroruifilipe/learning-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Rui Leite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castroruifilipe/learning-javascript/issues"
+  },
+  "homepage": "https://github.com/castroruifilipe/learning-javascript#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-eslint": "^4.0.2"
+  }
+}

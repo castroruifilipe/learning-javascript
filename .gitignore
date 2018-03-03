@@ -7,6 +7,10 @@ node_modules
 # OSX folder attributes
 .DS_Store
 
-#temporary files
+# temporary files
 *.tmp
 *~
+
+# es5 versions
+lj/dist
+lj/public/dist
